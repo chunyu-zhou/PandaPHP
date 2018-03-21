@@ -17,7 +17,8 @@
         "panda"
     ],
     "require": {
-        "php": ">=5.6.0"
+        "php": ">=5.6.0",
+        "topthink/think-orm": "^1.2"
     },
     "autoload": {
         "psr-4": {

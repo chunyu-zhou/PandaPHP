@@ -20,12 +20,6 @@
 
 .idea
 
-# 离线文档
-Public/*/doc/
-
-# 上传的文件
-Public/upload
-
 vendor
 composer.lock
 
