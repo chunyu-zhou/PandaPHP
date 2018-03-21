@@ -1,0 +1,27 @@
+{
+    "name": "one/pandaphp",
+    "description": "The PandaPHP lightweight framework focuses on how to create Web services faster and easier.",
+    "type": "project",
+    "homepage": "http://www.zcyso.com/",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "One",
+            "email": "admin@zcyso.com",
+            "role": "Developer"
+        }
+    ],
+    "keywords": [
+        "framework",
+        "PandaPHP",
+        "panda"
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "application"
+        }
+    }
+}
